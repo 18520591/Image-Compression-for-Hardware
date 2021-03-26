@@ -1,1 +1,28 @@
 
+week 1
+sửa sơ đồ chia 2 phần nén mất mát và không mất mát
+sửa chỗ bảng golom q= e
+x<2^m thì xác suất xảy ra e dương nhiều hơn
+Thêm vô đầu tiên phải xét ngữ cảnh(cách xác định ngữ cảnh, khi nào ngữ cảnh đồng nhất hay ko đồng nhất), rồi mới xét đến bit
+kéo rộng khoảng vùng không chắc chắn 
+trừ dần trừ dần đến vùng không chắc chắn.
+bổ sung vì sao từ 8bit qua 3 bit(công thức I~)-slide7
+*Thử:
+	1 mã hóa tất cả theo intra-prediction
+	2 mã hóa cả inter và intra paper
+	3 mã hóa theo code matlab
+        4 Kiểm tra luôn phương pháp: từ đầu làm predict X theo mỗi vùng đo lường-inter(bit đầu lấy 1 tk lân cận)
+test trên tất cả các bức hình của bài báo
+
+đồ án 1: mô phỏng matlab( phải kiểm tra tất cả các phương pháp, tìm tối ưu nhất)
+phải nén trên 25 ảnh màu( tuần sau show ảnh xám)
+vẽ kế hoạch nghiên cứu
+
+
+thử các trường hợp, có kết quả--> lưu lại--> báo cáo để kiểm chứng --> tốt nhất để thực hiện phần cứng
+(cuối cùng cũng đưa về tính e lỗi và mã hóa golomb)
+ý nghĩa răng cưa: do mất thông tin khi nén lại
+tuần sau báo cáo luôn decompression
+cộng r chia trung bình tổng pixel
+
+
