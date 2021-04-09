@@ -1,0 +1,10 @@
+báo cáo giữa kì: mục tiêu đề tài: mục tiêu lâu dài: các thông số cụ thể trên bảng so sánh
+ ví dụ: ảnh, hiệu suất, nhiễu, công suất, công nghệ, thorugput, Mp/s
+vấn đề bài toán: bài toán gốc là từ gray--> 3 kênh màu
+lưu ý về mảng máy học 
++Test: giải a2 lấy a3 và a0(theo sơ đồ của slide 8)
+--> cải thiện vị số 1 thì sẽ cải thiện được ảnh (thử mấy bài báo khác)
+sửa lại mục tiêu và đưa phần tìm hiểu hình ảnh so sánh psnr giữa 3 pp xử lý ảnh
+chạy mrf
+
+
